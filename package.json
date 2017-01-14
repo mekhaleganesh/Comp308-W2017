@@ -1,0 +1,11 @@
+{
+  "name": "comp308-lesson1b",
+  "version": "1.0.0",
+  "description": "Demo for app.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "test cammand for app.js"
+  },
+  "author": "Mekhal",
+  "license": "ISC"
+}
